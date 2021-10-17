@@ -1,7 +1,7 @@
 # auto-design
 
 ## summary
-- 配管などの設計を機械学習で自動生成することを検討する
+- ルートを強化学習で自動生成することを検討する
 
 ## auto-design-using-Qlearning.ipynb
 - Q-learningを使用した配管自動生成
